@@ -1,2 +1,2 @@
-# Data-Analysis-with-Python
-Data Analysis with Python - Weather Dataset
+# Data Analysis with Python - Weather Dataset
+Çeşitli Python fonksiyonları ve filtreleme yolları ile veri seti incelendi ve pratik yapıldı
